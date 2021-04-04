@@ -1,4 +1,5 @@
 # ImersãoDev - Conversor de moedas
+![Conversor](https://github.com/hiranneri/imersaodev/tree/main/Aula01%20-%20Conversor/img/index.png)
 
 A página solicita o valor em doláres a ser convertido em real.
 
